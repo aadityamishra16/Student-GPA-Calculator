@@ -76,3 +76,11 @@ Marks: 45.00 32.00 28.00 39.00 50.00
 GPA: 3.80
 Result: FAIL
 
+# 🔎 Logic
+
+Take input: User enters number of students, then for each student enters roll number, name, and marks in 5 subjects.
+Convert marks → grade points using a predefined scale (e.g., 85 = 9 points).
+Calculate GPA as the average of grade points across all 5 subjects.
+Decide result: If GPA ≥ 4, the student is marked PASS, otherwise FAIL.
+Print report card for each student with roll number, name, marks, GPA, and result.
+
